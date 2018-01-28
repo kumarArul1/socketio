@@ -1,0 +1,30 @@
+{
+  "name": "com.arul.socket",
+  "version": "1.0.0",
+  "description": "Socket App",
+  "main": "index.js",
+  "scripts": {
+    "test": "Arul"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumarArul1/newsocket.git"
+  },
+  "keywords": [
+    "arul"
+  ],
+  "author": "aril",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/kumarArul1/newsocket/issues"
+  },
+  "homepage": "https://github.com/kumarArul1/newsocket#readme",
+  "dependencies": {
+    "cookie": "^0.3.1",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "nonce": "^1.0.4",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}

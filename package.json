@@ -4,8 +4,8 @@
   "description": "Arul app",
   "main": "index.js",
   "scripts": {
-        "start": "node -r node-report app.js"
-},
+        "start": "node -r heapdump app.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kumarArul1/socketio.git"

@@ -1,30 +1,32 @@
 {
-  "name": "com.arul.socket",
+  "name": "com.arul.ksp",
   "version": "1.0.0",
-  "description": "Socket App",
-  "main": "index.js",
+  "description": "My app",
+  "main": "app.js",
   "scripts": {
-    "test": "Arul"
+    "test": "test"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kumarArul1/socketio.git"
   },
   "keywords": [
-    "arul"
+    "test"
   ],
-  "author": "aril",
+  "author": "Arul",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/kumarArul1/socketio.git"
+    "url": "https://github.com/kumarArul1/socketio/issues"
   },
-  "homepage": "https://github.com/kumarArul1/socketio.git#readme",
+  "homepage": "https://github.com/kumarArul1/socketio#readme",
   "dependencies": {
     "cookie": "^0.3.1",
+    "debug-log": "^1.0.1",
     "dotenv": "^4.0.0",
     "express": "^4.16.2",
     "nonce": "^1.0.4",
     "request": "^2.83.0",
     "request-promise": "^4.2.2"
-  }
+  },
+  "devDependencies": {}
 }

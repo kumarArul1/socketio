@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kumarArul1/newsocket.git"
+    "url": "git+https://github.com/kumarArul1/socketio.git"
   },
   "keywords": [
     "arul"
@@ -16,9 +16,9 @@
   "author": "aril",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/kumarArul1/newsocket/issues"
+    "url": "https://github.com/kumarArul1/socketio.git"
   },
-  "homepage": "https://github.com/kumarArul1/newsocket#readme",
+  "homepage": "https://github.com/kumarArul1/socketio.git#readme",
   "dependencies": {
     "cookie": "^0.3.1",
     "dotenv": "^4.0.0",

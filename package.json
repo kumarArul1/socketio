@@ -4,8 +4,8 @@
   "description": "Arul app",
   "main": "index.js",
   "scripts": {
-    "test": "test"
-  },
+        "start": "node -r node-report index.js"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kumarArul1/socketio.git"

@@ -1,31 +1,26 @@
 {
-  "name": "com.arul.ksp",
-  "version": "1.0.1",
-  "description": "Arul app",
-  "main": "index.js",
+  "name": "com.exk.nodeex",
+  "version": "1.0.0",
+  "description": "desc",
+  "main": "app.js",
   "scripts": {
-        "start": "node -r heapdump app.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kumarArul1/socketio.git"
+    "url": "git+https://github.com/kumarArul1/newsocket.git"
   },
   "keywords": [
-    "node"
+    "test"
   ],
   "author": "Arul",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/kumarArul1/socketio/issues"
+    "url": "https://github.com/kumarArul1/newsocket/issues"
   },
-  "homepage": "https://github.com/kumarArul1/socketio#readme",
+  "homepage": "https://github.com/kumarArul1/newsocket#readme",
   "dependencies": {
-    "cookie": "^0.3.1",
-    "dotenv": "^4.0.0",
     "express": "^4.16.2",
-    "nonce": "^1.0.4",
-    "request": "^2.83.0",
-    "request-promise": "^4.2.2",
     "socket.io": "^2.0.4"
   }
 }
